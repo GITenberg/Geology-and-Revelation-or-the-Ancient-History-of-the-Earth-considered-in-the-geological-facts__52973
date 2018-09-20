@@ -1,0 +1,37 @@
+_repo: Geology-and-Revelation-or-the-Ancient-History-of-the-Earth-considered-in-the-geological-facts__52973
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Dana, James Dwight
+    aliases:
+    - Dana, J. D.
+    - Dana, James D. (James Dwight)
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '47143'
+    url: http://www.gutenberg.org/2009/agents/47143
+creator:
+  author:
+    agent_name: Molloy, Gerald
+    birthdate: 1834
+    deathdate: 1906
+    gutenberg_agent_id: '47142'
+    url: http://www.gutenberg.org/2009/agents/47142
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52973'
+  lccn: '11013441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible and science'
+- !lcsh 'Bible and geology'
+- GITenberg
+title: "Geology and Revelation\r\nor, the Ancient History of the Earth, considered\
+  \ in the geological facts and revealed religion."
+url: http://www.gutenberg.org/ebooks/52973
